@@ -63,12 +63,25 @@ Aplicamos um design responsivo para garantir uma experiência perfeita em dispos
 Utilizamos uma paleta de cores vibrantes e harmoniosas para transmitir uma sensação de energia e confiança.
 Adicionamos ícones e ilustrações personalizadas para tornar a navegação mais visual e agradável.
 
+Head/Cabeçalho:
 ![head](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/10918194-ed38-4558-8ba3-c78097bd63ce)
+
+Footer/Pé:
 ![footer](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/8b7ec896-655c-4b40-b6a6-a4aac5ff4dd7)
+
+Logo do sistema:
 ![logodes](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/cbba515a-c4a9-4a7e-b0ea-8ffa4ae2b94e)
+
+Home/Página inicial:
 ![home](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/bc2384a2-618a-4715-a3c2-fddefdeb8402)
+
+Login/Página de login:
 ![login](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/8e4fc686-213c-4cd2-9f2e-2ae7770b70a6)
+
+Agendamento de viagem:
 ![agendamento](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/24da0d0c-34fd-45ad-91d0-c0aa004b01ee)
+
+Consulta de viagem:
 ![consulta](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/dd608bdb-a0d1-4b51-b5f7-07b8eae92e8a)
 
 ## Licença
