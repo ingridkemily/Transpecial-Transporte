@@ -57,6 +57,19 @@ iremos listar algumas dificuldades encontradas em nosso projeto e conforme forem
 - Atualização de senha devido ser algo relacionado a secretaria da cidadania e urbes
 - Aplicação do javascript devido a falta de conhecimentos 
 
+## Design
+Renovamos completamente o visual do site, tornando-o mais moderno e intuitivo.
+Aplicamos um design responsivo para garantir uma experiência perfeita em dispositivos móveis e desktop.
+Utilizamos uma paleta de cores vibrantes e harmoniosas para transmitir uma sensação de energia e confiança.
+Adicionamos ícones e ilustrações personalizadas para tornar a navegação mais visual e agradável.
+
+![head](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/10918194-ed38-4558-8ba3-c78097bd63ce)
+![footer](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/8b7ec896-655c-4b40-b6a6-a4aac5ff4dd7)
+![logodes](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/cbba515a-c4a9-4a7e-b0ea-8ffa4ae2b94e)
+![home](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/bc2384a2-618a-4715-a3c2-fddefdeb8402)
+![login](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/8e4fc686-213c-4cd2-9f2e-2ae7770b70a6)
+![agendamento](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/24da0d0c-34fd-45ad-91d0-c0aa004b01ee)
+![consulta](https://github.com/ElisaGrusca/Transpecial-Transporte/assets/104109705/dd608bdb-a0d1-4b51-b5f7-07b8eae92e8a)
 
 ## Licença
 MIT License
@@ -70,7 +83,8 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Software.!
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -79,5 +93,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
