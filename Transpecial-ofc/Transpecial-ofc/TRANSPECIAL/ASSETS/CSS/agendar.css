@@ -1,0 +1,131 @@
+/* Todos os elementos da página */
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+/* Elementos com o ID "titulo" */
+#titulo {
+    margin-top: 40px;
+    text-align: left;
+    color: #340763
+} 
+
+/* Elementos com o ID "subtitulo" */
+#subtitulo {
+    color: #340763;
+    margin-left: 10%;
+} 
+
+#check{
+    display: inline-block;
+}
+
+/* Elementos de tag <fieldset>*/
+fieldset {
+    border: 0;
+}
+
+/* Elemento de tag <body> */
+body{
+    background-color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    color: #340763;
+    margin: 0 auto;
+    text-align: left;
+    height: 100%;
+}
+
+/* Elementos de tags <body>, <input>, <Select>, <textarea> e <button> */
+input, select, textarea, button {
+    font-size: 1em;
+    color: #340763;
+    border-radius: 5px;
+}
+
+/* Elementos de classe "grupo" nos estados das pseudoclasses "before" e "after" */
+.grupo:before, .grupo:after {
+    display: table;
+}
+
+/* Elementos de classe "grupo" no estado da pseudoclasse "after" */
+.grupo:after {
+    clear: both;
+}
+
+/* Elementos de classe "campo" */
+.campo {
+    margin-bottom: 1em;
+    margin: 0 auto;
+    
+}
+
+label {
+    text-align: left;
+}
+
+
+/* Elementos de classe "campo" de tag <label> */
+.campo label {
+    margin-bottom: 0.2em;
+    color: #340763;
+    display: block;
+    margin: 0 auto;
+	text-align: left;
+}
+
+/* Elementos de classe "campo" ou "grupo" de tag <fieldset> */
+fieldset.grupo .campo {
+    margin: 0 auto;
+	text-align: left;
+}
+
+
+/* Elementos de classe "campo" de tag <select> e <option>*/
+.campo select option {
+    padding-right: 1em;
+    
+}
+
+/* Elemento de classe "campo" com tag <input>, <select> e <textarea> tocas com estado da pseudoclasse "focus"*/
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+    background: #ffffff;
+}
+
+
+.div-alinhada-a-esquerda {
+    margin: 0 auto;
+	width: 80%;
+  }
+
+  /* estilo para o campo "Local de Destino" */
+  #destino {
+    width: 600px;
+}
+
+/* estilo para o campo "Data" */
+#data {
+    width: 90px;
+}
+
+.div {
+    margin: 15px;
+  }
+  
+.div-direita {
+	text-align: right;
+  
+  }
+
+.atencao{
+color: red; 
+font-weight: bold; 
+margin-left: 15px;
+
+}
+
+.recado{
+margin-left: 15px;
+}
