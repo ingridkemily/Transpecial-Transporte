@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+  }
+  
+  .menu {
+    background-image: linear-gradient(to bottom right, rgba(247, 252, 97, 0.855) 2%, rgb(115, 29, 186) 40%, rgb(191, 188, 108) 60%, rgb(149, 11, 184) 90%);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  
+  .menu img {
+    width: 350px;
+    margin-right: 20px;
+  }
+  
+  .menu a {
+    display: inline-block;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    border-radius: 90px;
+    transition: 0.5s;
+  }
+  
+  .menu a:hover {
+    color: #950BB9;
+    background-color: #ffffff;
+    border-radius: 50px;
+    border: 1.5px solid #950BB9;
+  }
+  
+  .menu-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-right a {
+    margin-left: 20px;
+  }
+  
+  h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 24px;
+    color: #340763;
+    margin-bottom: 8px;
+  }
+  
+  h3 {
+    font-size: 16px;
+    color: #ffffff;
+  }
+  
+  p {
+    color: #340763;
+  }
+  
+  p.footer {
+    color: #ffffff;
+  }
+  
+  body {
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+  }
+  
+  footer {
+    background-color: #25034a;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: repeat(30px);
+    grid-gap: 5px;
+    padding: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-top: auto;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .wrapper {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .coluna-footer {
+    display: inline-block;
+    width: 30%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  .coluna-footer h3 {
+    margin-bottom: 0;
+  }
+  
+  .btn {
+    border-radius: 30px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 50px;
+    cursor: pointer;
+    font-weight: 600;
+    width: 150px;
+    align-self: center;
+    border: none;
+    margin-top: 1rem;
+  }
+  
+  .btn-second {
+    background-color: #340763;
+    border: 1.5px solid #ffffff;
+    transition: 0.5s;
+    align-self: center;
+    padding: 10px;
+  }
+  
+  .btn-second:hover {
+    background-color: #fff;
+    border: 1.5px solid #340763;
+    color: #340763;
+  }
+  
+  div.espaco {
+    margin-bottom: 5px;
+  }
+  

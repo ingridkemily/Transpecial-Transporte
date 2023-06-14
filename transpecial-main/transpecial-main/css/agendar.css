@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #titulo {
+    margin-top: 40px;
+    text-align: left;
+    color: #340763;
+  }
+  
+  #subtitulo {
+    color: #340763;
+    margin-left: 10%;
+  }
+  
+  #check {
+    display: inline-block;
+  }
+  
+  fieldset {
+    border: 0;
+  }
+  
+  body {
+    background-color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1em;
+    color: #340763;
+    margin: 0 auto;
+    text-align: left;
+    height: 100%;
+  }
+  
+  input,
+  select,
+  textarea,
+  button {
+    font-size: 1em;
+    color: #340763;
+    border-radius: 5px;
+  }
+  
+  .grupo:before,
+  .grupo:after {
+    display: table;
+  }
+  
+  .grupo:after {
+    clear: both;
+  }
+  
+  .campo {
+    margin-bottom: 1em;
+    margin: 0 auto;
+  }
+  
+  label {
+    text-align: left;
+  }
+  
+  .campo label {
+    margin-bottom: 0.2em;
+    color: #340763;
+    display: block;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  fieldset.grupo .campo {
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .campo select option {
+    padding-right: 1em;
+  }
+  
+  .campo input:focus,
+  .campo select:focus,
+  .campo textarea:focus {
+    background: #ffffff;
+  }
+  
+  .div-alinhada-a-esquerda {
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  #destino {
+    width: 600px;
+  }
+  
+  #data {
+    width: 90px;
+  }
+  
+  .div {
+    margin: 15px;
+  }
+  
+  .div-direita {
+    text-align: right;
+  }
+  
+  .atencao {
+    color: red;
+    font-weight: bold;
+    margin-left: 15px;
+  }
+  
+  .recado {
+    margin-left: 15px;
+  }
+  
+  
+  
