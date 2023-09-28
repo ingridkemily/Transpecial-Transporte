@@ -1,4 +1,4 @@
-# Tanspecial
+# Transpecial
 Site para o agendamento de transporte especial, inspirado no sistema de transporte de Sorocaba-sp.
 Um projeto voltado ao agendamento do transporte especial, embasado na cidade de Sorocaba e suas necessidades.
 o Site irá ser voltado para público que utiliza o transporte especial, aqueles que não possuem condições 
